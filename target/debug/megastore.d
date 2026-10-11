@@ -1,0 +1,1 @@
+C:\Users\gabri\megastore\target\debug\megastore.exe: C:\Users\gabri\megastore\src\graph.rs C:\Users\gabri\megastore\src\main.rs C:\Users\gabri\megastore\src\models.rs C:\Users\gabri\megastore\src\recommendation.rs
